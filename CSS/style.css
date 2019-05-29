@@ -1,0 +1,35 @@
+/* label{
+  display: table-cell;
+  text-align: right;
+}
+input {
+display: table-cell;
+} */
+input[type="text"] {
+  width:250px;
+height:30px;
+border-radius:5px;
+
+margin-left:2px;
+position:relative;
+}
+select{
+  width: 200px;
+}
+
+label{
+position:relative;
+width:300px;
+border:2px ;
+margin:05px;
+padding:2px;
+font-family:AR CENA;
+font-size:20px;
+
+}
+
+input[type="submit"]{
+  background-color: skyblue;
+  position: relative;
+  
+}

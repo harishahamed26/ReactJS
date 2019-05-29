@@ -1,0 +1,52 @@
+[
+  {
+    "name" :"product 1",
+    "weight": "50kg",
+    "availability":"1",
+    "product_URL":"www.amazonn.com",
+    "price_Tier" :"Budget",
+    "price_range" :"4k-6k",
+    "Editable": true
+    
+    
+    
+  },
+  
+   {
+    "name" :"product 2",
+    "weight": "60kg",
+    "availability":"5",
+    "product_URL":"www.amazonn.com",
+    "price_Tier" :"Premier",
+    "price_range": "0k-30k",
+    "Editable":false
+    
+    
+  },
+  {
+    "name" :"product 3",
+    "weight": "90kg",
+    "availability":"2",
+    "product_URL":"www.amazonn.com",
+    "price_Tier" :"Budget",
+    "price_range" :"6k-9k",
+    "Editable": true
+    
+    
+    
+  },
+  {
+    "name" :"product 7",
+    "weight": "55kg",
+    "availability":"1",
+    "product_URL":"www.amazonn.com",
+    "price_Tier" :"Budget",
+    "price_range" :"4k-6k",
+    "Editable": false
+    
+    
+    
+  }
+  
+  
+]
